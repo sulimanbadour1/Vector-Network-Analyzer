@@ -2,6 +2,12 @@
 
 A Python-based Vector Network Analyzer that combines an OWON AG1022 signal generator with a Rohde & Schwarz RTB2004 oscilloscope to perform frequency response measurements and impedance analysis.
 
+
+## Important 
+
+- [Download R&S VISA](https://www.rohde-schwarz.com/cz/applications/r-s-visa-application-note_56280-148812.html)
+- [Download OWON AG1022 driver](https://www.owon.com.hk/download.asp?category=Waveform%20Generator&series=AG%20Series&model=&SortTag=)
+
 ## Overview
 
 This VNA system performs swept frequency measurements by:
