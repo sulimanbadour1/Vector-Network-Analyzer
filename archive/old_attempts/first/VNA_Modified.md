@@ -1,6 +1,6 @@
 # Vector Network Analyzer (VNA) for WON AG 1022 and R&S RTB2004
 
-A Python-based Vector Network Analyzer implementation that uses a WON AG 1022 signal generator and Rohde & Schwarz RTB2004 oscilloscope to perform frequency domain measurements and network analysis.
+A Python-based Vector Network Analyzer implementation that uses a OWON AG 1022 signal generator and Rohde & Schwarz RTB2004 oscilloscope to perform frequency domain measurements and network analysis.
 
 ## Overview
 
