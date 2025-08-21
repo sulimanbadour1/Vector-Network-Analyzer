@@ -4,6 +4,8 @@
 #            freq <value>  ampl <vpp>  offs <v>  duty <pct>  symm <pct>  load <OFF|50|100>
 #            get [freq|ampl|offs|wave]  sweep <start> <stop> <points> [lin|log] [dwell_s]
 #            presets  status  quit
+
+
 import re, sys, time
 import usb.core, usb.util
 
