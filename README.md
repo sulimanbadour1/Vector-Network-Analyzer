@@ -244,18 +244,6 @@ rtb.write("TRIG:SOUR EXT")
 rtb.write("TRIG:SLOP POS")
 ```
 
-## License
-
-This project is provided as-is for educational and research purposes. Please ensure compliance with your local regulations and equipment warranties.
-
-## Contributing
-
-Contributions are welcome! Areas for improvement:
-- Support for additional oscilloscope models
-- Enhanced error handling and recovery
-- GUI interface development
-- Advanced analysis features
-- Documentation improvements
 
 ## References
 
